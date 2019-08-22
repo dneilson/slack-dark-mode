@@ -37,7 +37,7 @@ In general, you should completely close out of Slack before or after you run the
 First, clone the repository
 
 ```bash
-$ git clone https://github.com/LanikSJ/slack-dark-mode
+$ git clone https://github.com/dneilson/slack-dark-mode.git
 $ cd slack-dark-mode
 ```
 
